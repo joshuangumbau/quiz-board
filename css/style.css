@@ -1,0 +1,16 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.Submit{
+    background-color: rgb(36, 141, 36);
+   color: white;
+   border-color: white;
+   border-style: none;
+   
+}
+fieldset{
+    align-items: center;
+    padding-left: 10em;
+}
